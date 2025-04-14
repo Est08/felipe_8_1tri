@@ -4,6 +4,9 @@
 :root {
     --laranja-claro: #FF862A;
 }
+.root {
+    --vermelho-claro:  #da4621;
+}
 
 body {
     font-size: 1rem;
